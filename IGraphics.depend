@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1603541456 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1604749440 c:\users\mubas\desktop\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1603541456 c:\users\mubas\desktop\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603541456 c:\users\mubas\desktop\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1603541456 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1604487790 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\asg1.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+	"gl.h"
+
+1603541456 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1603541455 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1604742231 c:\users\mubas\desktop\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1604291798 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\untitled1.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+
+1604593483 source:c:\users\mubas\desktop\assignment\curve.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+
+1603541456 c:\users\mubas\desktop\assignment\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1604682652 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\ass_bonus.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	"gl.h"
+
+1603541456 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\textinputdemo.cpp
+	"iGraphics.h"
+
+1604755249 source:c:\users\mubas\desktop\igraphics-master\igraphics-master\1905088_1.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	"gl.h"
+
+1604748789 source:c:\users\mubas\desktop\igraphics-master\assignment\curve.cpp
+	"iGraphics.h"
+	<conio.h>
+	<math.h>
+
+1604742777 c:\users\mubas\desktop\igraphics-master\assignment\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
